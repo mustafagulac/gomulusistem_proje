@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "789848332550",
+    "firebase_url": "https://gomulusistemler-akilliulasim-default-rtdb.firebaseio.com",
+    "project_id": "gomulusistemler-akilliulasim",
+    "storage_bucket": "gomulusistemler-akilliulasim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789848332550:android:a1b7c316f846841d9be687",
+        "android_client_info": {
+          "package_name": "com.akilliulasim.akilliulasim_proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789848332550-ksb4k77oim808965vh9377p9db4pqgb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPHQSDz4TV0e5dLDWuLr_kRvyaSqE-B54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789848332550-ksb4k77oim808965vh9377p9db4pqgb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
